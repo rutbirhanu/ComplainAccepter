@@ -1,1 +1,4 @@
 # ComplainAccepter
+
+- Golang
+- PostgreSQL 
