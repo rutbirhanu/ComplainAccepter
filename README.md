@@ -1,4 +1,6 @@
 # ComplainAccepter
 
 - Golang (Echo)
-- PostgreSQL 
+- PostgreSQL
+- React js
+- Material UI 
