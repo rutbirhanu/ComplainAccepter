@@ -7,4 +7,4 @@ This web application allows users to submit and manage complaints efficiently. U
 - PostgreSQL
 - React js
 - Material UI
-- Gmail service 
+
